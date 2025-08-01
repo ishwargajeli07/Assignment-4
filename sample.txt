@@ -1,0 +1,8 @@
+This is a sample text file.
+It contains multiple lines.
+.
+..
+...
+What ,GO
+You were supposed to read only two lines.
+Why are you still reading?
